@@ -27,7 +27,7 @@ export default function ProfilePage() {
                 onClick={LogoutHandler}
                 className="w-25 bg-slate-100 border-[1px] border-[#832729] px-5 py-2 rounded-md text-lg font-medium bold hover:bg-[#832729] hover:text-white hover:ease-in duration-500"
               >
-              LOGOUT
+                LOGOUT
               </button>
             </span>
             <div className="w-[100%] m-6">
@@ -36,23 +36,23 @@ export default function ProfilePage() {
                 <tbody>
                   <tr>
                     <td>Name</td>
-                    <td>Mr Krunal Padsala</td>
+                    <td>Divyesh Soni</td>
                   </tr>
                   <tr>
                     <td>Date of birth</td>
-                    <td>30 December 2001</td>
+                    <td>13 July 2001</td>
                   </tr>
                   <tr>
                     <td>Phone number</td>
-                    <td>9512540136</td>
+                    <td>6355391958</td>
                   </tr>
                   <tr>
                     <td>Email address</td>
-                    <td>krunalpadsala30@gmail.com</td>
+                    <td>divyesh.soni1371@gmail.com</td>
                   </tr>
                   <tr>
                     <td>Address</td>
-                    <td>Varachha Road, Surat - 395006</td>
+                    <td>Adajan, Surat - 395009</td>
                   </tr>
                 </tbody>
               </table>
